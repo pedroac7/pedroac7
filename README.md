@@ -3,9 +3,7 @@
 ## 🇺🇸 About me
 
 I'm a **Software Engineering student** at the Federal University of Rio Grande do Norte (UFRN), with experience in **Full Stack development** and **software testing**.
-
 I have worked mainly with **Java (Spring Boot)**, **PHP (Laravel)** and **React**, focusing on backend development, API design and automated testing using tools like **JUnit, Selenium and K6**.
-
 I'm fluent in multiple languages and have experience as an **English teaching assistant** at the university.
 
 ---
@@ -13,9 +11,7 @@ I'm fluent in multiple languages and have experience as an **English teaching as
 ## 🇧🇷 Sobre mim
 
 Sou estudante de **Tecnologia da Informação** na UFRN, com experiência em **desenvolvimento Full Stack** e **testes de software**.
-
 Atuei principalmente com **Java (Spring Boot)**, **PHP (Laravel)** e **React**, com maior foco em backend, desenvolvimento de APIs e testes automatizados utilizando **JUnit, Selenium e K6**.
-
 Sou poliglota e trabalhei como **monitor de língua inglesa** na universidade.
 
 ---
@@ -25,25 +21,28 @@ Sou poliglota e trabalhei como **monitor de língua inglesa** na universidade.
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k6/k6-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 </div>
 
 ---
 
-## 🌍 Languages I Speak | Idiomas
+## 🌍 Languages I Speak
 
-<div style="display: inline_block"><br>
-  🇧🇷 <strong>Portuguese</strong> – Native <br>
-  🇺🇸 <strong>English</strong> – Fluent <br>
-  🇪🇸 <strong>Spanish</strong> – Fluent <br>
-  🇫🇷 <strong>French</strong> – Fluent <br>
-  🇩🇰 <strong>Danish</strong> – Intermediate
+<div>
+  <img src="https://flagcdn.com/w40/br.png"/> Portuguese — Native <br>
+  <img src="https://flagcdn.com/w40/us.png"/> English — Fluent <br>
+  <img src="https://flagcdn.com/w40/es.png"/> Spanish — Fluent <br>
+  <img src="https://flagcdn.com/w40/fr.png"/> French — Fluent <br>
+  <img src="https://flagcdn.com/w40/dk.png"/> Danish — Intermediate
 </div>
 
 ---
