@@ -17,7 +17,6 @@ Sou poliglota e trabalhei como **monitor de língua inglesa** na universidade.
 ---
 
 ## 🚀 Languages & Technologies
-
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
@@ -32,7 +31,6 @@ Sou poliglota e trabalhei como **monitor de língua inglesa** na universidade.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 </div>
-
 ---
 
 ## 🌍 Languages I Speak
