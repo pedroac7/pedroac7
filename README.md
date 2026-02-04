@@ -31,6 +31,7 @@ Sou poliglota e trabalhei como **monitor de língua inglesa** na universidade.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 </div>
+
 ---
 
 ## 🌍 Languages I Speak
